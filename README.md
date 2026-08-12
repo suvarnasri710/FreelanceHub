@@ -176,20 +176,6 @@ FreelanceHub/
 │   ├── 04_subqueries.sql
 │   └── 05_advanced_queries.sql
 │
-├── views/
-│   └── project_views.sql
-│
-├── procedures/
-│   └── stored_procedures.sql
-│
-├── triggers/
-│   └── triggers.sql
-│
-├── diagrams/
-│   └── er_diagram.png
-│
-├── screenshots/
-│
 └── README.md
 ```
 
